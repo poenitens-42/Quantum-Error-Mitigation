@@ -1,0 +1,6 @@
+# experiments/config.yaml
+# Controls for run_experiment.py
+
+num_runs: 15     # repetitions per condition — 15 gives reliable CIs
+shots:   1024 # shots per circuit execution
+ideal:    1.0      # fallback ideal; overridden per-circuit in run_experiment.py

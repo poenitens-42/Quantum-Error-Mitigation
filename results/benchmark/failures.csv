@@ -1,0 +1,10 @@
+method,circuit,regime,fail_count
+linear,bell,low,1
+richardson,bell,high,1
+richardson,bell,low,5
+richardson,bell,mid,3
+richardson,depth_d5,low,2
+richardson,ghz,high,3
+richardson,ghz,low,2
+richardson,ghz,mid,2
+richardson,qft,low,3

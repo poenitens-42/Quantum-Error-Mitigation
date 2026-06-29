@@ -1,0 +1,13 @@
+qiskit
+mitiq
+matplotlib
+numpy
+pandas
+pyyaml
+cirq
+ply
+seaborn
+joblib
+scikit-learn
+xgboost
+imblearn

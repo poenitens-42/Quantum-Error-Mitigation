@@ -86,7 +86,7 @@ Pre-trained model artifacts (`.pkl`) and raw results CSVs are included for immed
 
 ## Limitations
 
-Be explicit about these — they are documented in the paper:
+dataset simulated(lack of NISQ device) and run on limited hardware [ my laptop :( ] 
 
 - **Dataset size**: 126 samples across 4 simulated circuit types. IC significance and generalisation claims are limited at this scale.
 - **Simulated noise only**: All circuits run on classical noise simulators (not real quantum hardware). Results may not transfer directly to physical NISQ devices.

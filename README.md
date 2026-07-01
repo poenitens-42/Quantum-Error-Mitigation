@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20140750.svg)](https://doi.org/10.5281/zenodo.20140750)
 
+Let me preface this by saying that this is my Undergrad Research project and reported a paper with the current findings
+all hardware that was used was my laptop alone, So there will be a Limitations  
+
+
 Code for the preprint: **"Regime-Aware Adaptive Quantum Error Mitigation for NISQ Devices via Machine Learning"** — Arjun Prabhakaran, B.M.S. College of Engineering (2026).
 
 ---
